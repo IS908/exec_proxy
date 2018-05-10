@@ -1,0 +1,9 @@
+server:
+  port: 8088
+
+svn:
+  tool:
+    dir: D:/MyWorkSpace/chongqing/patchtools/target/
+
+jenkins:
+  workspace_dir: /app/jenkins/Jenkins/workspace
